@@ -1,0 +1,10 @@
+python
+laptop
+window
+hangman
+science
+elephant
+giraffe
+keyboard
+internet
+notebook
